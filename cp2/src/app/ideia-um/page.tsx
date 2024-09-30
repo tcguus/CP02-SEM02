@@ -5,15 +5,6 @@ export default function page() {
       <div>
       <Cabecalho/>
       
-      
-      
-      
-      
-      
-      
-      
-      
-
       </div>
       
       
