@@ -4,19 +4,7 @@ export default function page() {
     return (
       <div>
       <Cabecalho/>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-
-      </div>
-      
-      
+      </div> 
     );
   }
   
