@@ -4,7 +4,7 @@ import Image from "next/image"
 export default function page() {
     return (
       <div className="flex flex-col items-center p-8 bg-gray-100 min-h-screen">
-        <Image src="/image/ideia 1.gif"
+        <Image src="/images/ideia1.jpg"
         alt="Rejeição do Uniformitarismo Científico"
         width={400}
         height={200}

@@ -4,7 +4,7 @@ import Image from "next/image"
 export default function page() {
     return (
       <div className="flex flex-col items-center p-8 bg-gray-100 min-h-screen">
-        <Image src="/image/ideia 2.webp"
+        <Image src="/images/ideia2.jpg"
         alt="Catastrofismo Planetário"
         width={400}
         height={200}
