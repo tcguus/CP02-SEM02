@@ -7,9 +7,9 @@ export default function Home() {
       <div className="flex flex-col items-center">
         <h1 className="text-6xl font-bold text-center mt-8 text-blue-600 mb-6">Immanuel Velikovsky</h1>
         <Image alt="Fotografia de Immanuel Velikovsky"
-        width={500} 
+        width={300} 
         height={300} 
-        className="rounded-lg shadow-lg mb-20" src="/image/Immanuel_Velikovsky.jpg"/></div>
+        className="rounded-lg shadow-lg mb-20" src="/images/Immanuel_Velikovsky.jpg"/></div>
       <div className="flex justify-evenly w-full"> 
         <Link className="border-2 border-blue-600 pt-2 pb-2 pl-4 pr-4 rounded" href={'/ideia-um'}>Ideia 1</Link>
         <Link className="border-2 border-blue-600 pt-2 pb-2 pl-4 pr-4 rounded" href={'/ideia-dois'}>Ideia 2</Link>
